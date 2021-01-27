@@ -19,3 +19,7 @@ _See "Copy_of_Topic_modelling_with_Genism_for_Binder_final.ipynb" for final vers
 ** **
 _Source code of the Anvil app: ConRegReViX.yaml_
 ** **
+# ToDos:
+- Clean up the links between the data-table and the Pdf, so as by clicking on the links, the user woll see the relevant Article's text only (with no html code). 
+- Clarify why Chrome does not allow reloading of the iframe, thus does not allow the users to see the second intercative graph. 
+- Use more beautiful Graph visualisations, such as neo4j.
