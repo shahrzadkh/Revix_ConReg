@@ -1,0 +1,1352 @@
+﻿[
+  {
+    "p": {
+"start": {
+"identity": 3892,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 45_32013R0153"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3892,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 45_32013R0153"
+            }
+          },
+          "relationship": {
+"identity": 11398,
+"start": 3892,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3891,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 3_32019R1851"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3891,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 3_32019R1851"
+            }
+          },
+          "relationship": {
+"identity": 11393,
+"start": 3891,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3888,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 8_32019R0885"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3888,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 8_32019R0885"
+            }
+          },
+          "relationship": {
+"identity": 11384,
+"start": 3888,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3887,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 7_32019R0885"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3887,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 7_32019R0885"
+            }
+          },
+          "relationship": {
+"identity": 11381,
+"start": 3887,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3884,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 4_32019R0885"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3884,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 4_32019R0885"
+            }
+          },
+          "relationship": {
+"identity": 11373,
+"start": 3884,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3883,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 3_32019R0885"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3883,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 3_32019R0885"
+            }
+          },
+          "relationship": {
+"identity": 11368,
+"start": 3883,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3882,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 2_32019R0885"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3882,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 2_32019R0885"
+            }
+          },
+          "relationship": {
+"identity": 11364,
+"start": 3882,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3880,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 7_32019R0820"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3880,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 7_32019R0820"
+            }
+          },
+          "relationship": {
+"identity": 11356,
+"start": 3880,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3879,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 6_32019R0820"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3879,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 6_32019R0820"
+            }
+          },
+          "relationship": {
+"identity": 11352,
+"start": 3879,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3876,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 3_32019R0820"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3876,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 3_32019R0820"
+            }
+          },
+          "relationship": {
+"identity": 11345,
+"start": 3876,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3873,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 13_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3873,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 13_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11334,
+"start": 3873,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3872,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 12_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3872,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 12_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11329,
+"start": 3872,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3871,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 11_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3871,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 11_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11324,
+"start": 3871,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3870,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 10_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3870,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 10_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11319,
+"start": 3870,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3866,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 6_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3866,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 6_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11308,
+"start": 3866,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3863,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 3_32019R0819"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3863,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 3_32019R0819"
+            }
+          },
+          "relationship": {
+"identity": 11301,
+"start": 3863,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3860,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 9_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3860,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 9_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11290,
+"start": 3860,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3858,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 7_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3858,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 7_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11284,
+"start": 3858,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3857,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 6_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3857,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 6_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11281,
+"start": 3857,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3856,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 5_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3856,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 5_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11278,
+"start": 3856,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3855,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 4_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3855,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 4_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11275,
+"start": 3855,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3854,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 3_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3854,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 3_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11272,
+"start": 3854,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3853,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 2_32019R0758"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3853,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 2_32019R0758"
+            }
+          },
+          "relationship": {
+"identity": 11269,
+"start": 3853,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3851,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 18_32019R0411"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3851,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 18_32019R0411"
+            }
+          },
+          "relationship": {
+"identity": 11262,
+"start": 3851,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  },
+  {
+    "p": {
+"start": {
+"identity": 3850,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Article 17_32019R0411"
+        }
+      },
+"end": {
+"identity": 3932,
+"labels": [
+          "Node"
+        ],
+"properties": {
+"id": "Topic_1"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 3850,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Article 17_32019R0411"
+            }
+          },
+          "relationship": {
+"identity": 11257,
+"start": 3850,
+"end": 3932,
+"type": "CONNECTED",
+"properties": {
+
+            }
+          },
+          "end": {
+"identity": 3932,
+"labels": [
+              "Node"
+            ],
+"properties": {
+"id": "Topic_1"
+            }
+          }
+        }
+      ],
+"length": 1.0
+    }
+  }
+]
