@@ -27,7 +27,7 @@ _Source code of the Anvil app: ConRegReViX.yaml_
 - Use more beautiful Graph visualisations, such as neo4j.----> Already tested.
 _Checkout_: **ConReg_NEO4J/NEO4j_Graph_for_Topic_modelling_with_Genism.ipynb** and the Sandbox: 
 
-# ToDos with NetworkX+NEO4j Graphs: 
+## ToDos with NetworkX+NEO4j Graphs: 
   
 - One can also maybe create graph of terms, linked to the topics (weights derived from LDA).
 - save the main Graph of the NEO4J, which is an IFrame, and see if one can use it in Anvil (instead of directly going for NEO4j Dashboard). 
